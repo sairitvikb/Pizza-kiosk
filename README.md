@@ -48,7 +48,3 @@ The application focuses on:
 ### Frontend
 - HTML (Flask Templates)
 
----
-
-
-
