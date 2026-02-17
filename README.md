@@ -51,7 +51,4 @@ The application focuses on:
 ---
 
 
-    password VARCHAR(255)
-);
-```
 
